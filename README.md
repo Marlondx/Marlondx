@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/Marlondx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marlondx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlondx&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Marlondx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlondx&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Marlon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marlon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  
-<img align="right" alt="Marlon" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/19/28/54/192854b7f2be65554ee599620b635cdf.jpg?width=676&height=676"> 
+<img align="right" alt="Marlon" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/19/28/54/192854b7f2be65554ee599620b635cdf.jpg?width=680&height=680"> 
 </div>
   
    ##
